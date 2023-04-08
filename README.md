@@ -1,6 +1,10 @@
 # XPKeygen
 Windows XP Keygen (Based on TheMCHK/WindowsXPKg with proper instructions)
 
+### YOU CAN DOWNLOAD PRE-BUILT BINARIES [HERE](https://github.com/iPedroLB/XPKeygen/releases/download/v1.0/XPKeygen.zip)
+
+#### NOTE: autoxp.c and auto2003.c are small programs that generate 1000 keys and saves them, but they do also generate 1000 TXT's, so be careful
+
 ---
 ## INSTALLING DEPENDENCIES
 First, install MinGW from [here](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/)
@@ -14,7 +18,6 @@ After that, copy the OpenSSL includes and libraries from [this zip file](https:/
 After that, clone this repo (Or Download ZIP and extract if you don't know shit about Git)
 
 Then, just run the ``build-all.bat`` file on CMD and wait for the files
-
 
 And Finally, Run the ``windowsxp.exe`` File with CMD
 
